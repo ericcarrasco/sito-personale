@@ -1,0 +1,12 @@
+{
+ "versione": "2.0",
+ "allievo": "Eric C.",
+ "giorni": [
+  {
+   "data": "2026-11-23",
+   "stato": "P",
+   "ore": 8,
+   "attivita": "programma"
+  }
+ ]
+}
